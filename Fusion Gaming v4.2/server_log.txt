@@ -1,0 +1,1893 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[12:40:34] filterscripts = ""  (string)
+[12:40:34] 
+[12:40:34] Server Plugins
+[12:40:34] --------------
+[12:40:34]  Loading plugin: crashdetect.dll
+[12:40:34]   CrashDetect v4.15.1 is OK.
+[12:40:34]   Loaded.
+[12:40:34]  Loading plugin: streamer.dll
+[12:40:34] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[12:40:34]   Loaded.
+[12:40:34]  Loading plugin: sscanf.dll
+[12:40:34] 
+
+[12:40:34]  ===============================
+
+[12:40:34]       sscanf plugin loaded.     
+
+[12:40:34]          Version:  2.8.2        
+
+[12:40:34]    (c) 2012 Alex "Y_Less" Cole  
+
+[12:40:34]  ===============================
+
+[12:40:34]   Loaded.
+[12:40:34]  Loading plugin: MapAndreas.dll
+[12:40:34]   Loaded.
+[12:40:34]  Loaded 4 plugins.
+
+[12:40:34] 
+[12:40:34] Filterscripts
+[12:40:34] ---------------
+[12:40:34]   Loaded 0 filterscripts.
+
+[12:40:34]  
+[12:40:34]  
+[12:40:34]  
+[12:40:34]  ======================================= 
+[12:40:34]  |                                     | 
+[12:40:34]  |        YSI version 3.09.0684        | 
+[12:40:34]  |        By Alex "Y_Less" Cole        | 
+[12:40:34]  |                                     | 
+[12:40:34]  ======================================= 
+[12:40:34]  
+[12:40:34]  
+[12:40:34]  
+[12:40:35] [FG:RP]: Skripta vrsi ocitavanje....
+[12:40:35] [FG:RP]: OnGameModeInit se pokrece.
+[12:40:35]  Y_INI | Zona 0 ucitana
+[12:40:35]  Y_INI | Zona 1 ucitana
+[12:40:35]  Y_INI | Zona 2 ucitana
+[12:40:35]  Y_INI | Zona 3 ucitana
+[12:40:35]  Y_INI | Zona 4 ucitana
+[12:40:35]  Y_INI | Zona 5 ucitana
+[12:40:35]  Y_INI | Zona 6 ucitana
+[12:40:35]  Y_INI | Zona 7 ucitana
+[12:40:35]  Y_INI | Zona 8 ucitana
+[12:40:35]  Y_INI | Zona 9 ucitana
+[12:40:35]  Y_INI | Zona 10 ucitana
+[12:40:35]  Y_INI | Zona 11 ucitana
+[12:40:35]  Y_INI | Zona 12 ucitana
+[12:40:35]  Y_INI | Zona 13 ucitana
+[12:40:35]  Y_INI | Zona 14 ucitana
+[12:40:35]  Y_INI | Zona 15 ucitana
+[12:40:35]  Y_INI | Zona 16 ucitana
+[12:40:35]  Y_INI | Zona 17 ucitana
+[12:40:35]  Y_INI | Zona 18 ucitana
+[12:40:35]  Y_INI | Zona 19 ucitana
+[12:40:37] [FG:RP] >> System zlata uèitan.
+[12:40:39] [FG:RP] - PD Clanovi ucitani.
+[12:40:39] [FG:RP] - SAJ Clanovi ucitani.
+[12:40:39] [FG:RP] - Vojska Clanovi ucitani.
+[12:40:39] [FG:RP] - DNB Clanovi ucitani.
+[12:40:39] [FG:RP] - GSF Clanovi ucitani.
+[12:40:39] [FG:RP] - Ballas Clanovi ucitani.
+[12:40:39] [FG:RP] - Surenos Clanovi ucitani.
+[12:40:39] [FG:RP] - Vagos Clanovi ucitani.
+[12:40:39] [FG:RP] - LCN Clanovi ucitani.
+[12:40:39] [FG:RP] - Yakuza Clanovi ucitani.
+[12:40:39] [FG:RP] - Admini ucitani.
+[12:40:39] [FG:RP] - Helperi ucitani.
+[12:40:39] [FG:RP] - Zaduzenja ucitana.
+[12:40:39] [FG:RP] >> Server podesavanja ucitana.
+[12:40:39] [FG:RP] >> System pocetnickih statsa i pljacki je ucitan.
+[12:40:39] [FG:RP] >> System droge kuce ucitan.
+[12:40:39] [FG:RP] >> Lotto podesavanja ucitana !
+[12:40:39] Ucitani labeli.
+[12:40:39] Ucitani pickupovi.
+[12:40:39] 10886 - ukupno CreateDynamicObjekata.
+[12:40:39]  
+[12:40:39] FGaming v4.0 successfully loaded!
+[12:40:39] Gamemode by DIAZ !
+[12:40:39]  
+[12:40:39]  Skripta ucitana za 4238 ms
+[12:40:39] Number of vehicle models: 71
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[12:41:49] filterscripts = ""  (string)
+[12:41:49] 
+[12:41:49] Server Plugins
+[12:41:49] --------------
+[12:41:49]  Loading plugin: crashdetect.dll
+[12:41:49]   CrashDetect v4.15.1 is OK.
+[12:41:49]   Loaded.
+[12:41:49]  Loading plugin: streamer.dll
+[12:41:49] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[12:41:49]   Loaded.
+[12:41:49]  Loading plugin: sscanf.dll
+[12:41:49] 
+
+[12:41:49]  ===============================
+
+[12:41:49]       sscanf plugin loaded.     
+
+[12:41:49]          Version:  2.8.2        
+
+[12:41:49]    (c) 2012 Alex "Y_Less" Cole  
+
+[12:41:49]  ===============================
+
+[12:41:49]   Loaded.
+[12:41:49]  Loading plugin: MapAndreas.dll
+[12:41:49]   Loaded.
+[12:41:49]  Loaded 4 plugins.
+
+[12:41:49] 
+[12:41:49] Filterscripts
+[12:41:49] ---------------
+[12:41:49]   Loaded 0 filterscripts.
+
+[12:41:49]  
+[12:41:49]  
+[12:41:49]  
+[12:41:49]  ======================================= 
+[12:41:49]  |                                     | 
+[12:41:49]  |        YSI version 3.09.0684        | 
+[12:41:49]  |        By Alex "Y_Less" Cole        | 
+[12:41:49]  |                                     | 
+[12:41:49]  ======================================= 
+[12:41:49]  
+[12:41:49]  
+[12:41:49]  
+[12:41:50] [FG:RP]: Skripta vrsi ocitavanje....
+[12:41:50] [FG:RP]: OnGameModeInit se pokrece.
+[12:41:50]  Y_INI | Zona 0 ucitana
+[12:41:50]  Y_INI | Zona 1 ucitana
+[12:41:50]  Y_INI | Zona 2 ucitana
+[12:41:50]  Y_INI | Zona 3 ucitana
+[12:41:50]  Y_INI | Zona 4 ucitana
+[12:41:50]  Y_INI | Zona 5 ucitana
+[12:41:50]  Y_INI | Zona 6 ucitana
+[12:41:50]  Y_INI | Zona 7 ucitana
+[12:41:50]  Y_INI | Zona 8 ucitana
+[12:41:50]  Y_INI | Zona 9 ucitana
+[12:41:50]  Y_INI | Zona 10 ucitana
+[12:41:50]  Y_INI | Zona 11 ucitana
+[12:41:50]  Y_INI | Zona 12 ucitana
+[12:41:50]  Y_INI | Zona 13 ucitana
+[12:41:50]  Y_INI | Zona 14 ucitana
+[12:41:50]  Y_INI | Zona 15 ucitana
+[12:41:50]  Y_INI | Zona 16 ucitana
+[12:41:50]  Y_INI | Zona 17 ucitana
+[12:41:50]  Y_INI | Zona 18 ucitana
+[12:41:50]  Y_INI | Zona 19 ucitana
+[12:41:52] [FG:RP] >> System zlata uèitan.
+[12:41:54] [FG:RP] - PD Clanovi ucitani.
+[12:41:54] [FG:RP] - SAJ Clanovi ucitani.
+[12:41:54] [FG:RP] - Vojska Clanovi ucitani.
+[12:41:54] [FG:RP] - DNB Clanovi ucitani.
+[12:41:54] [FG:RP] - GSF Clanovi ucitani.
+[12:41:54] [FG:RP] - Ballas Clanovi ucitani.
+[12:41:54] [FG:RP] - Surenos Clanovi ucitani.
+[12:41:54] [FG:RP] - Vagos Clanovi ucitani.
+[12:41:54] [FG:RP] - LCN Clanovi ucitani.
+[12:41:54] [FG:RP] - Yakuza Clanovi ucitani.
+[12:41:54] [FG:RP] - Admini ucitani.
+[12:41:54] [FG:RP] - Helperi ucitani.
+[12:41:54] [FG:RP] - Zaduzenja ucitana.
+[12:41:54] [FG:RP] >> Server podesavanja ucitana.
+[12:41:54] [FG:RP] >> System pocetnickih statsa i pljacki je ucitan.
+[12:41:54] [FG:RP] >> System droge kuce ucitan.
+[12:41:54] [FG:RP] >> Lotto podesavanja ucitana !
+[12:41:54] Ucitani labeli.
+[12:41:54] Ucitani pickupovi.
+[12:41:54] 10886 - ukupno CreateDynamicObjekata.
+[12:41:54]  
+[12:41:54] FGaming v4.0 successfully loaded!
+[12:41:54] Gamemode by DIAZ !
+[12:41:54]  
+[12:41:54]  Skripta ucitana za 4065 ms
+[12:41:54] Number of vehicle models: 71
+[12:46:39] [connection] 127.0.0.1:54886 requests connection cookie.
+[12:46:40] Incoming connection: 127.0.0.1:54886 id: 0
+[12:46:40] [join] DIAZ has joined the server (0:127.0.0.1)
+[12:50:59] [AUTOSAVE]: Online korisnicki racuni uspjesno spremljeni 
+[12:52:19] [part] DIAZ has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[13:03:11] filterscripts = ""  (string)
+[13:03:11] 
+[13:03:11] Server Plugins
+[13:03:11] --------------
+[13:03:11]  Loading plugin: crashdetect.dll
+[13:03:11]   CrashDetect v4.15.1 is OK.
+[13:03:11]   Loaded.
+[13:03:11]  Loading plugin: streamer.dll
+[13:03:11] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[13:03:11]   Loaded.
+[13:03:11]  Loading plugin: sscanf.dll
+[13:03:11] 
+
+[13:03:11]  ===============================
+
+[13:03:11]       sscanf plugin loaded.     
+
+[13:03:11]          Version:  2.8.2        
+
+[13:03:11]    (c) 2012 Alex "Y_Less" Cole  
+
+[13:03:11]  ===============================
+
+[13:03:11]   Loaded.
+[13:03:11]  Loading plugin: MapAndreas.dll
+[13:03:11]   Loaded.
+[13:03:11]  Loaded 4 plugins.
+
+[13:03:11] 
+[13:03:11] Filterscripts
+[13:03:11] ---------------
+[13:03:11]   Loaded 0 filterscripts.
+
+[13:03:11]  
+[13:03:11]  
+[13:03:11]  
+[13:03:11]  ======================================= 
+[13:03:11]  |                                     | 
+[13:03:11]  |        YSI version 3.09.0684        | 
+[13:03:11]  |        By Alex "Y_Less" Cole        | 
+[13:03:11]  |                                     | 
+[13:03:11]  ======================================= 
+[13:03:11]  
+[13:03:11]  
+[13:03:11]  
+[13:03:12] [FG:RP]: Skripta vrsi ocitavanje....
+[13:03:12] [FG:RP]: OnGameModeInit se pokrece.
+[13:03:12]  Y_INI | Zona 0 ucitana
+[13:03:12]  Y_INI | Zona 1 ucitana
+[13:03:12]  Y_INI | Zona 2 ucitana
+[13:03:12]  Y_INI | Zona 3 ucitana
+[13:03:12]  Y_INI | Zona 4 ucitana
+[13:03:12]  Y_INI | Zona 5 ucitana
+[13:03:12]  Y_INI | Zona 6 ucitana
+[13:03:12]  Y_INI | Zona 7 ucitana
+[13:03:12]  Y_INI | Zona 8 ucitana
+[13:03:12]  Y_INI | Zona 9 ucitana
+[13:03:12]  Y_INI | Zona 10 ucitana
+[13:03:12]  Y_INI | Zona 11 ucitana
+[13:03:12]  Y_INI | Zona 12 ucitana
+[13:03:12]  Y_INI | Zona 13 ucitana
+[13:03:12]  Y_INI | Zona 14 ucitana
+[13:03:12]  Y_INI | Zona 15 ucitana
+[13:03:12]  Y_INI | Zona 16 ucitana
+[13:03:12]  Y_INI | Zona 17 ucitana
+[13:03:12]  Y_INI | Zona 18 ucitana
+[13:03:12]  Y_INI | Zona 19 ucitana
+[13:03:14] [FG:RP] >> System zlata uèitan.
+[13:03:16] [FG:RP] - PD Clanovi ucitani.
+[13:03:16] [FG:RP] - SAJ Clanovi ucitani.
+[13:03:16] [FG:RP] - Vojska Clanovi ucitani.
+[13:03:16] [FG:RP] - DNB Clanovi ucitani.
+[13:03:16] [FG:RP] - GSF Clanovi ucitani.
+[13:03:16] [FG:RP] - Ballas Clanovi ucitani.
+[13:03:16] [FG:RP] - Surenos Clanovi ucitani.
+[13:03:16] [FG:RP] - Vagos Clanovi ucitani.
+[13:03:16] [FG:RP] - LCN Clanovi ucitani.
+[13:03:16] [FG:RP] - Yakuza Clanovi ucitani.
+[13:03:16] [FG:RP] - Admini ucitani.
+[13:03:16] [FG:RP] - Helperi ucitani.
+[13:03:16] [FG:RP] - Zaduzenja ucitana.
+[13:03:16] [FG:RP] >> Server podesavanja ucitana.
+[13:03:16] [FG:RP] >> System pocetnickih statsa i pljacki je ucitan.
+[13:03:16] [FG:RP] >> System droge kuce ucitan.
+[13:03:16] [FG:RP] >> Lotto podesavanja ucitana !
+[13:03:16] Ucitani labeli.
+[13:03:16] Ucitani pickupovi.
+[13:03:16] 10886 - ukupno CreateDynamicObjekata.
+[13:03:16]  
+[13:03:16] FGaming v4.0 successfully loaded!
+[13:03:16] Gamemode by DIAZ !
+[13:03:16]  
+[13:03:16]  Skripta ucitana za 4281 ms
+[13:03:16] Number of vehicle models: 71
+[13:03:45] [connection] 127.0.0.1:64193 requests connection cookie.
+[13:03:46] Incoming connection: 127.0.0.1:64193 id: 0
+[13:03:46] [join] DIAZ has joined the server (0:127.0.0.1)
+[13:12:23] [AUTOSAVE]: Online korisnicki racuni uspjesno spremljeni 
+[13:13:27] [part] DIAZ has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[13:33:36] filterscripts = ""  (string)
+[13:33:36] 
+[13:33:36] Server Plugins
+[13:33:36] --------------
+[13:33:36]  Loading plugin: crashdetect.dll
+[13:33:36]   CrashDetect v4.15.1 is OK.
+[13:33:36]   Loaded.
+[13:33:36]  Loading plugin: streamer.dll
+[13:33:36] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[13:33:36]   Loaded.
+[13:33:36]  Loading plugin: sscanf.dll
+[13:33:36] 
+
+[13:33:36]  ===============================
+
+[13:33:36]       sscanf plugin loaded.     
+
+[13:33:36]          Version:  2.8.2        
+
+[13:33:36]    (c) 2012 Alex "Y_Less" Cole  
+
+[13:33:36]  ===============================
+
+[13:33:36]   Loaded.
+[13:33:36]  Loading plugin: MapAndreas.dll
+[13:33:36]   Loaded.
+[13:33:36]  Loaded 4 plugins.
+
+[13:33:37] 
+[13:33:37] Filterscripts
+[13:33:37] ---------------
+[13:33:37]   Loaded 0 filterscripts.
+
+[13:33:37]  
+[13:33:37]  
+[13:33:37]  
+[13:33:37]  ======================================= 
+[13:33:37]  |                                     | 
+[13:33:37]  |        YSI version 3.09.0684        | 
+[13:33:37]  |        By Alex "Y_Less" Cole        | 
+[13:33:37]  |                                     | 
+[13:33:37]  ======================================= 
+[13:33:37]  
+[13:33:37]  
+[13:33:37]  
+[13:33:38] [FG:RP]: Skripta vrsi ocitavanje....
+[13:33:38] [FG:RP]: OnGameModeInit se pokrece.
+[13:33:38]  Y_INI | Zona 0 ucitana
+[13:33:38]  Y_INI | Zona 1 ucitana
+[13:33:38]  Y_INI | Zona 2 ucitana
+[13:33:38]  Y_INI | Zona 3 ucitana
+[13:33:38]  Y_INI | Zona 4 ucitana
+[13:33:38]  Y_INI | Zona 5 ucitana
+[13:33:38]  Y_INI | Zona 6 ucitana
+[13:33:38]  Y_INI | Zona 7 ucitana
+[13:33:38]  Y_INI | Zona 8 ucitana
+[13:33:38]  Y_INI | Zona 9 ucitana
+[13:33:38]  Y_INI | Zona 10 ucitana
+[13:33:38]  Y_INI | Zona 11 ucitana
+[13:33:38]  Y_INI | Zona 12 ucitana
+[13:33:38]  Y_INI | Zona 13 ucitana
+[13:33:38]  Y_INI | Zona 14 ucitana
+[13:33:38]  Y_INI | Zona 15 ucitana
+[13:33:38]  Y_INI | Zona 16 ucitana
+[13:33:38]  Y_INI | Zona 17 ucitana
+[13:33:38]  Y_INI | Zona 18 ucitana
+[13:33:38]  Y_INI | Zona 19 ucitana
+[13:33:40] [FG:RP] >> System zlata uèitan.
+[13:33:42] [FG:RP] - PD Clanovi ucitani.
+[13:33:42] [FG:RP] - SAJ Clanovi ucitani.
+[13:33:42] [FG:RP] - Vojska Clanovi ucitani.
+[13:33:42] [FG:RP] - DNB Clanovi ucitani.
+[13:33:42] [FG:RP] - GSF Clanovi ucitani.
+[13:33:42] [FG:RP] - Ballas Clanovi ucitani.
+[13:33:42] [FG:RP] - Surenos Clanovi ucitani.
+[13:33:42] [FG:RP] - Vagos Clanovi ucitani.
+[13:33:42] [FG:RP] - LCN Clanovi ucitani.
+[13:33:42] [FG:RP] - Yakuza Clanovi ucitani.
+[13:33:42] [FG:RP] - Admini ucitani.
+[13:33:42] [FG:RP] - Helperi ucitani.
+[13:33:42] [FG:RP] - Zaduzenja ucitana.
+[13:33:42] [FG:RP] >> Server podesavanja ucitana.
+[13:33:42] [FG:RP] >> System pocetnickih statsa i pljacki je ucitan.
+[13:33:42] [FG:RP] >> System droge kuce ucitan.
+[13:33:42] [FG:RP] >> Lotto podesavanja ucitana !
+[13:33:42] Ucitani labeli.
+[13:33:42] Ucitani pickupovi.
+[13:33:42] 10886 - ukupno CreateDynamicObjekata.
+[13:33:42]  
+[13:33:42] FGaming v4.0 successfully loaded!
+[13:33:42] Gamemode by DIAZ !
+[13:33:42]  
+[13:33:42]  Skripta ucitana za 4327 ms
+[13:33:42] Number of vehicle models: 71
+[13:34:08] [connection] 127.0.0.1:52584 requests connection cookie.
+[13:34:09] Incoming connection: 127.0.0.1:52584 id: 0
+[13:34:09] [join] DIAZ has joined the server (0:127.0.0.1)
+[13:34:26] [debug] Run time error 4: "Array index out of bounds"
+[13:34:26] [debug]  Accessing element at index 14 past array upper bound 13
+[13:34:26] [debug] AMX backtrace:
+[13:34:26] [debug] #0 002e7d78 in public OnPlPa_OnPlayerSpawn (0) from FGaming4.0.amx
+[13:34:26] [debug] #1 native CallLocalFunction () from samp-server.exe
+[13:34:26] [debug] #2 0002a968 in ?? (0) from FGaming4.0.amx
+[13:34:26] [debug] #3 0000737c in public OnPlayerSpawn (0) from FGaming4.0.amx
+[13:35:38] [part] DIAZ has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[13:38:23] filterscripts = ""  (string)
+[13:38:23] 
+[13:38:23] Server Plugins
+[13:38:23] --------------
+[13:38:23]  Loading plugin: crashdetect.dll
+[13:38:23]   CrashDetect v4.15.1 is OK.
+[13:38:23]   Loaded.
+[13:38:23]  Loading plugin: streamer.dll
+[13:38:23] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[13:38:23]   Loaded.
+[13:38:23]  Loading plugin: sscanf.dll
+[13:38:23] 
+
+[13:38:23]  ===============================
+
+[13:38:23]       sscanf plugin loaded.     
+
+[13:38:23]          Version:  2.8.2        
+
+[13:38:23]    (c) 2012 Alex "Y_Less" Cole  
+
+[13:38:23]  ===============================
+
+[13:38:23]   Loaded.
+[13:38:23]  Loading plugin: MapAndreas.dll
+[13:38:23]   Loaded.
+[13:38:23]  Loaded 4 plugins.
+
+[13:38:23] 
+[13:38:23] Filterscripts
+[13:38:23] ---------------
+[13:38:23]   Loaded 0 filterscripts.
+
+[13:38:24]  
+[13:38:24]  
+[13:38:24]  
+[13:38:24]  ======================================= 
+[13:38:24]  |                                     | 
+[13:38:24]  |        YSI version 3.09.0684        | 
+[13:38:24]  |        By Alex "Y_Less" Cole        | 
+[13:38:24]  |                                     | 
+[13:38:24]  ======================================= 
+[13:38:24]  
+[13:38:24]  
+[13:38:24]  
+[13:38:25] [FG:RP]: Skripta vrsi ocitavanje....
+[13:38:25] [FG:RP]: OnGameModeInit se pokrece.
+[13:38:25]  Y_INI | Zona 0 ucitana
+[13:38:25]  Y_INI | Zona 1 ucitana
+[13:38:25]  Y_INI | Zona 2 ucitana
+[13:38:25]  Y_INI | Zona 3 ucitana
+[13:38:25]  Y_INI | Zona 4 ucitana
+[13:38:25]  Y_INI | Zona 5 ucitana
+[13:38:25]  Y_INI | Zona 6 ucitana
+[13:38:25]  Y_INI | Zona 7 ucitana
+[13:38:25]  Y_INI | Zona 8 ucitana
+[13:38:25]  Y_INI | Zona 9 ucitana
+[13:38:25]  Y_INI | Zona 10 ucitana
+[13:38:25]  Y_INI | Zona 11 ucitana
+[13:38:25]  Y_INI | Zona 12 ucitana
+[13:38:25]  Y_INI | Zona 13 ucitana
+[13:38:25]  Y_INI | Zona 14 ucitana
+[13:38:25]  Y_INI | Zona 15 ucitana
+[13:38:25]  Y_INI | Zona 16 ucitana
+[13:38:25]  Y_INI | Zona 17 ucitana
+[13:38:25]  Y_INI | Zona 18 ucitana
+[13:38:25]  Y_INI | Zona 19 ucitana
+[13:38:27] [FG:RP] >> System zlata uèitan.
+[13:38:28] [FG:RP] - PD Clanovi ucitani.
+[13:38:28] [FG:RP] - SAJ Clanovi ucitani.
+[13:38:28] [FG:RP] - Vojska Clanovi ucitani.
+[13:38:28] [FG:RP] - DNB Clanovi ucitani.
+[13:38:28] [FG:RP] - GSF Clanovi ucitani.
+[13:38:29] [FG:RP] - Ballas Clanovi ucitani.
+[13:38:29] [FG:RP] - Surenos Clanovi ucitani.
+[13:38:29] [FG:RP] - Vagos Clanovi ucitani.
+[13:38:29] [FG:RP] - LCN Clanovi ucitani.
+[13:38:29] [FG:RP] - Yakuza Clanovi ucitani.
+[13:38:41] [FG:RP] - Admini ucitani.
+[13:38:41] [FG:RP] - Helperi ucitani.
+[13:38:41] [FG:RP] - Zaduzenja ucitana.
+[13:38:42] [FG:RP] >> Server podesavanja ucitana.
+[13:38:42] [FG:RP] >> System pocetnickih statsa i pljacki je ucitan.
+[13:38:42] [FG:RP] >> System droge kuce ucitan.
+[13:38:42] [FG:RP] >> Lotto podesavanja ucitana !
+[13:38:42] Ucitani labeli.
+[13:38:42] Ucitani pickupovi.
+[13:38:42] 10886 - ukupno CreateDynamicObjekata.
+[13:38:42]  
+[13:38:42] FGaming v4.0 successfully loaded!
+[13:38:42] Gamemode by DIAZ !
+[13:38:42]  
+[13:38:42]  Skripta ucitana za 16822 ms
+[13:38:42] Number of vehicle models: 71
+[13:39:09] [connection] 127.0.0.1:49336 requests connection cookie.
+[13:39:10] Incoming connection: 127.0.0.1:49336 id: 0
+[13:39:11] [join] DIAZ has joined the server (0:127.0.0.1)
+[13:39:30] [debug] Run time error 4: "Array index out of bounds"
+[13:39:30] [debug]  Accessing element at index 14 past array upper bound 13
+[13:39:30] [debug] AMX backtrace:
+[13:39:30] [debug] #0 002e7d78 in public OnPlPa_OnPlayerSpawn (0) from FGaming4.0.amx
+[13:39:30] [debug] #1 native CallLocalFunction () from samp-server.exe
+[13:39:30] [debug] #2 0002a968 in ?? (0) from FGaming4.0.amx
+[13:39:30] [debug] #3 0000737c in public OnPlayerSpawn (0) from FGaming4.0.amx
+[13:43:25] [part] DIAZ has left the server (0:1)
+[13:43:45] [connection] 127.0.0.1:50839 requests connection cookie.
+[13:43:46] Incoming connection: 127.0.0.1:50839 id: 0
+[13:43:46] [join] DIAZ has joined the server (0:127.0.0.1)
+[13:44:07] [debug] Run time error 4: "Array index out of bounds"
+[13:44:07] [debug]  Accessing element at index 14 past array upper bound 13
+[13:44:07] [debug] AMX backtrace:
+[13:44:07] [debug] #0 002e7d78 in public OnPlPa_OnPlayerSpawn (0) from FGaming4.0.amx
+[13:44:07] [debug] #1 native CallLocalFunction () from samp-server.exe
+[13:44:07] [debug] #2 0002a968 in ?? (0) from FGaming4.0.amx
+[13:44:07] [debug] #3 0000737c in public OnPlayerSpawn (0) from FGaming4.0.amx
+[13:47:47] [AUTOSAVE]: Online korisnicki racuni uspjesno spremljeni 
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[18:25:45] filterscripts = ""  (string)
+[18:25:45] 
+[18:25:45] Server Plugins
+[18:25:45] --------------
+[18:25:45]  Loading plugin: crashdetect.dll
+[18:25:45]   CrashDetect v4.15.1 is OK.
+[18:25:45]   Loaded.
+[18:25:45]  Loading plugin: streamer.dll
+[18:25:45] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[18:25:45]   Loaded.
+[18:25:45]  Loading plugin: sscanf.dll
+[18:25:45] 
+
+[18:25:45]  ===============================
+
+[18:25:45]       sscanf plugin loaded.     
+
+[18:25:45]          Version:  2.8.2        
+
+[18:25:45]    (c) 2012 Alex "Y_Less" Cole  
+
+[18:25:45]  ===============================
+
+[18:25:45]   Loaded.
+[18:25:45]  Loading plugin: MapAndreas.dll
+[18:25:45]   Loaded.
+[18:25:45]  Loaded 4 plugins.
+
+[18:25:45] 
+[18:25:45] Filterscripts
+[18:25:45] ---------------
+[18:25:45]   Loaded 0 filterscripts.
+
+[18:25:46]  
+[18:25:46]  
+[18:25:46]  
+[18:25:46]  ======================================= 
+[18:25:46]  |                                     | 
+[18:25:46]  |        YSI version 3.09.0684        | 
+[18:25:46]  |        By Alex "Y_Less" Cole        | 
+[18:25:46]  |                                     | 
+[18:25:46]  ======================================= 
+[18:25:46]  
+[18:25:46]  
+[18:25:46]  
+[18:25:46] [FG:RP]: Skripta vrsi ocitavanje....
+[18:25:46] [FG:RP]: OnGameModeInit se pokrece.
+[18:25:46]  Y_INI | Zona 0 ucitana
+[18:25:46]  Y_INI | Zona 1 ucitana
+[18:25:46]  Y_INI | Zona 2 ucitana
+[18:25:46]  Y_INI | Zona 3 ucitana
+[18:25:46]  Y_INI | Zona 4 ucitana
+[18:25:46]  Y_INI | Zona 5 ucitana
+[18:25:46]  Y_INI | Zona 6 ucitana
+[18:25:46]  Y_INI | Zona 7 ucitana
+[18:25:46]  Y_INI | Zona 8 ucitana
+[18:25:46]  Y_INI | Zona 9 ucitana
+[18:25:46]  Y_INI | Zona 10 ucitana
+[18:25:46]  Y_INI | Zona 11 ucitana
+[18:25:46]  Y_INI | Zona 12 ucitana
+[18:25:46]  Y_INI | Zona 13 ucitana
+[18:25:46]  Y_INI | Zona 14 ucitana
+[18:25:46]  Y_INI | Zona 15 ucitana
+[18:25:46]  Y_INI | Zona 16 ucitana
+[18:25:46]  Y_INI | Zona 17 ucitana
+[18:25:46]  Y_INI | Zona 18 ucitana
+[18:25:46]  Y_INI | Zona 19 ucitana
+[18:25:49] [FG:RP] >> System zlata uèitan.
+[18:25:50] [FG:RP] - PD Clanovi ucitani.
+[18:25:50] [FG:RP] - SAJ Clanovi ucitani.
+[18:25:50] [FG:RP] - Vojska Clanovi ucitani.
+[18:25:50] [FG:RP] - DNB Clanovi ucitani.
+[18:25:50] [FG:RP] - GSF Clanovi ucitani.
+[18:25:50] [FG:RP] - Ballas Clanovi ucitani.
+[18:25:50] [FG:RP] - Surenos Clanovi ucitani.
+[18:25:50] [FG:RP] - Vagos Clanovi ucitani.
+[18:25:50] [FG:RP] - LCN Clanovi ucitani.
+[18:25:50] [FG:RP] - Yakuza Clanovi ucitani.
+[18:25:50] [FG:RP] - Admini ucitani.
+[18:25:50] [FG:RP] - Helperi ucitani.
+[18:25:50] [FG:RP] - Zaduzenja ucitana.
+[18:25:51] [FG:RP] >> Server podesavanja ucitana.
+[18:25:51] [FG:RP] >> System pocetnickih statsa i pljacki je ucitan.
+[18:25:51] [FG:RP] >> System droge kuce ucitan.
+[18:25:51] [FG:RP] >> Lotto podesavanja ucitana !
+[18:25:51] Ucitani labeli.
+[18:25:51] Ucitani pickupovi.
+[18:25:51] 10886 - ukupno CreateDynamicObjekata.
+[18:25:51]  
+[18:25:51] FGaming v4.0 successfully loaded!
+[18:25:51] Gamemode by DIAZ !
+[18:25:51]  
+[18:25:51]  Skripta ucitana za 4338 ms
+[18:25:51] Number of vehicle models: 71
+[18:26:24] [connection] 127.0.0.1:57329 requests connection cookie.
+[18:26:25] Incoming connection: 127.0.0.1:57329 id: 0
+[18:26:25] [join] Nat_Diaz has joined the server (0:127.0.0.1)
+[18:30:40] [debug] Run time error 4: "Array index out of bounds"
+[18:30:40] [debug]  Accessing element at index 14 past array upper bound 13
+[18:30:40] [debug] AMX backtrace:
+[18:30:40] [debug] #0 002e7d78 in public OnPlPa_OnPlayerSpawn (0) from FGaming4.0.amx
+[18:30:40] [debug] #1 native CallLocalFunction () from samp-server.exe
+[18:30:40] [debug] #2 0002a968 in ?? (0) from FGaming4.0.amx
+[18:30:40] [debug] #3 0000737c in public OnPlayerSpawn (0) from FGaming4.0.amx
+[18:30:54] [part] Nat_Diaz has left the server (0:1)
+[18:31:16] [connection] 127.0.0.1:49871 requests connection cookie.
+[18:31:17] Incoming connection: 127.0.0.1:49871 id: 0
+[18:31:18] [join] Nat_Diaz has joined the server (0:127.0.0.1)
+[18:31:36] [debug] Run time error 4: "Array index out of bounds"
+[18:31:36] [debug]  Accessing element at index 14 past array upper bound 13
+[18:31:36] [debug] AMX backtrace:
+[18:31:36] [debug] #0 002e7d78 in public OnPlPa_OnPlayerSpawn (0) from FGaming4.0.amx
+[18:31:36] [debug] #1 native CallLocalFunction () from samp-server.exe
+[18:31:36] [debug] #2 0002a968 in ?? (0) from FGaming4.0.amx
+[18:31:36] [debug] #3 0000737c in public OnPlayerSpawn (0) from FGaming4.0.amx
+[18:31:43] [part] Nat_Diaz has left the server (0:1)
+[18:34:56] [AUTOSAVE]: Online korisnicki racuni uspjesno spremljeni 
+[18:44:00] [AUTOSAVE]: Online korisnicki racuni uspjesno spremljeni 
+[18:53:06] [AUTOSAVE]: Online korisnicki racuni uspjesno spremljeni 
+[19:00:01] DrvoRast public pokrenut!
+[19:00:01] DrvoRast public zavrsen!
+[19:02:10] [AUTOSAVE]: Online korisnicki racuni uspjesno spremljeni 
+[19:11:15] [AUTOSAVE]: Online korisnicki racuni uspjesno spremljeni 
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[19:15:00] filterscripts = ""  (string)
+[19:15:00] 
+[19:15:00] Server Plugins
+[19:15:00] --------------
+[19:15:00]  Loading plugin: crashdetect.dll
+[19:15:00]   CrashDetect v4.15.1 is OK.
+[19:15:00]   Loaded.
+[19:15:00]  Loading plugin: streamer.dll
+[19:15:00] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[19:15:00]   Loaded.
+[19:15:00]  Loading plugin: sscanf.dll
+[19:15:00] 
+
+[19:15:00]  ===============================
+
+[19:15:00]       sscanf plugin loaded.     
+
+[19:15:00]          Version:  2.8.2        
+
+[19:15:00]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:15:00]  ===============================
+
+[19:15:00]   Loaded.
+[19:15:00]  Loading plugin: MapAndreas.dll
+[19:15:00]   Loaded.
+[19:15:00]  Loaded 4 plugins.
+
+[19:15:00] 
+[19:15:00] Filterscripts
+[19:15:00] ---------------
+[19:15:00]   Loaded 0 filterscripts.
+
+[19:15:01]  
+[19:15:01]  
+[19:15:01]  
+[19:15:01]  ======================================= 
+[19:15:01]  |                                     | 
+[19:15:01]  |        YSI version 3.09.0684        | 
+[19:15:01]  |        By Alex "Y_Less" Cole        | 
+[19:15:01]  |                                     | 
+[19:15:01]  ======================================= 
+[19:15:01]  
+[19:15:01]  
+[19:15:01]  
+[19:15:01] [FG:RP]: Skripta vrsi ocitavanje....
+[19:15:01] [FG:RP]: OnGameModeInit se pokrece.
+[19:15:01]  Y_INI | Zona 0 ucitana
+[19:15:01]  Y_INI | Zona 1 ucitana
+[19:15:01]  Y_INI | Zona 2 ucitana
+[19:15:01]  Y_INI | Zona 3 ucitana
+[19:15:01]  Y_INI | Zona 4 ucitana
+[19:15:01]  Y_INI | Zona 5 ucitana
+[19:15:01]  Y_INI | Zona 6 ucitana
+[19:15:01]  Y_INI | Zona 7 ucitana
+[19:15:01]  Y_INI | Zona 8 ucitana
+[19:15:01]  Y_INI | Zona 9 ucitana
+[19:15:01]  Y_INI | Zona 10 ucitana
+[19:15:01]  Y_INI | Zona 11 ucitana
+[19:15:01]  Y_INI | Zona 12 ucitana
+[19:15:01]  Y_INI | Zona 13 ucitana
+[19:15:01]  Y_INI | Zona 14 ucitana
+[19:15:01]  Y_INI | Zona 15 ucitana
+[19:15:01]  Y_INI | Zona 16 ucitana
+[19:15:01]  Y_INI | Zona 17 ucitana
+[19:15:01]  Y_INI | Zona 18 ucitana
+[19:15:01]  Y_INI | Zona 19 ucitana
+[19:15:04] [FG:RP] >> System zlata uèitan.
+[19:15:05] [FG:RP] - PD Clanovi ucitani.
+[19:15:05] [FG:RP] - SAJ Clanovi ucitani.
+[19:15:05] [FG:RP] - Vojska Clanovi ucitani.
+[19:15:05] [FG:RP] - DNB Clanovi ucitani.
+[19:15:05] [FG:RP] - GSF Clanovi ucitani.
+[19:15:05] [FG:RP] - Ballas Clanovi ucitani.
+[19:15:05] [FG:RP] - Surenos Clanovi ucitani.
+[19:15:05] [FG:RP] - Vagos Clanovi ucitani.
+[19:15:05] [FG:RP] - LCN Clanovi ucitani.
+[19:15:05] [FG:RP] - Yakuza Clanovi ucitani.
+[19:15:05] [FG:RP] - Admini ucitani.
+[19:15:05] [FG:RP] - Helperi ucitani.
+[19:15:05] [FG:RP] - Zaduzenja ucitana.
+[19:15:06] [FG:RP] >> Server podesavanja ucitana.
+[19:15:06] [FG:RP] >> System pocetnickih statsa i pljacki je ucitan.
+[19:15:06] [FG:RP] >> System droge kuce ucitan.
+[19:15:06] [FG:RP] >> Lotto podesavanja ucitana !
+[19:15:06] Ucitani labeli.
+[19:15:06] Ucitani pickupovi.
+[19:15:06] 10886 - ukupno CreateDynamicObjekata.
+[19:15:06]  
+[19:15:06] FGaming v4.0 successfully loaded!
+[19:15:06] Gamemode by DIAZ !
+[19:15:06]  
+[19:15:06]  Skripta ucitana za 4288 ms
+[19:15:06] Number of vehicle models: 71
+[19:15:38] [connection] 127.0.0.1:59684 requests connection cookie.
+[19:15:39] Incoming connection: 127.0.0.1:59684 id: 0
+[19:15:40] [join] Nat_Diaz has joined the server (0:127.0.0.1)
+[19:16:41] [DEBUG] DIALOG_LOGIN - 2
+[19:16:41] [DEBUG] DIALOG_LOGIN - 9
+[19:16:41] [DEBUG] OnPlayerStateChange 0, 8, 0
+[19:16:41] [debug] Run time error 4: "Array index out of bounds"
+[19:16:41] [debug]  Accessing element at index 14 past array upper bound 13
+[19:16:41] [debug] AMX backtrace:
+[19:16:41] [debug] #0 002e7d78 in public OnPlPa_OnPlayerSpawn (0) from FGaming4.0.amx
+[19:16:41] [debug] #1 native CallLocalFunction () from samp-server.exe
+[19:16:41] [debug] #2 0002a968 in ?? (0) from FGaming4.0.amx
+[19:16:41] [debug] #3 0000737c in public OnPlayerSpawn (0) from FGaming4.0.amx
+[19:16:41] [DEBUG] OnPlayerStateChange 0, 1, 8
+[19:16:44] [DEBUG] OnPlayerDisconnect 2
+[19:16:44] [part] Nat_Diaz has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[19:24:18] filterscripts = ""  (string)
+[19:24:18] 
+[19:24:18] Server Plugins
+[19:24:18] --------------
+[19:24:18]  Loading plugin: crashdetect.dll
+[19:24:18]   CrashDetect v4.15.1 is OK.
+[19:24:18]   Loaded.
+[19:24:18]  Loading plugin: streamer.dll
+[19:24:18] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[19:24:18]   Loaded.
+[19:24:18]  Loading plugin: sscanf.dll
+[19:24:18] 
+
+[19:24:18]  ===============================
+
+[19:24:18]       sscanf plugin loaded.     
+
+[19:24:18]          Version:  2.8.2        
+
+[19:24:18]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:24:18]  ===============================
+
+[19:24:18]   Loaded.
+[19:24:18]  Loading plugin: MapAndreas.dll
+[19:24:18]   Loaded.
+[19:24:18]  Loaded 4 plugins.
+
+[19:24:18] 
+[19:24:18] Filterscripts
+[19:24:18] ---------------
+[19:24:18]   Loaded 0 filterscripts.
+
+[19:24:19]  
+[19:24:19]  
+[19:24:19]  
+[19:24:19]  ======================================= 
+[19:24:19]  |                                     | 
+[19:24:19]  |        YSI version 3.09.0684        | 
+[19:24:19]  |        By Alex "Y_Less" Cole        | 
+[19:24:19]  |                                     | 
+[19:24:19]  ======================================= 
+[19:24:19]  
+[19:24:19]  
+[19:24:19]  
+[19:24:20] [FG:RP]: Skripta vrsi ocitavanje....
+[19:24:20] [FG:RP]: OnGameModeInit se pokrece.
+[19:24:20]  Y_INI | Zona 0 ucitana
+[19:24:20]  Y_INI | Zona 1 ucitana
+[19:24:20]  Y_INI | Zona 2 ucitana
+[19:24:20]  Y_INI | Zona 3 ucitana
+[19:24:20]  Y_INI | Zona 4 ucitana
+[19:24:20]  Y_INI | Zona 5 ucitana
+[19:24:20]  Y_INI | Zona 6 ucitana
+[19:24:20]  Y_INI | Zona 7 ucitana
+[19:24:20]  Y_INI | Zona 8 ucitana
+[19:24:20]  Y_INI | Zona 9 ucitana
+[19:24:20]  Y_INI | Zona 10 ucitana
+[19:24:20]  Y_INI | Zona 11 ucitana
+[19:24:20]  Y_INI | Zona 12 ucitana
+[19:24:20]  Y_INI | Zona 13 ucitana
+[19:24:20]  Y_INI | Zona 14 ucitana
+[19:24:20]  Y_INI | Zona 15 ucitana
+[19:24:20]  Y_INI | Zona 16 ucitana
+[19:24:20]  Y_INI | Zona 17 ucitana
+[19:24:20]  Y_INI | Zona 18 ucitana
+[19:24:20]  Y_INI | Zona 19 ucitana
+[19:24:23] [FG:RP] >> System zlata uèitan.
+[19:24:26] [FG:RP] - PD Clanovi ucitani.
+[19:24:26] [FG:RP] - SAJ Clanovi ucitani.
+[19:24:26] [FG:RP] - Vojska Clanovi ucitani.
+[19:24:26] [FG:RP] - DNB Clanovi ucitani.
+[19:24:26] [FG:RP] - GSF Clanovi ucitani.
+[19:24:26] [FG:RP] - Ballas Clanovi ucitani.
+[19:24:26] [FG:RP] - Surenos Clanovi ucitani.
+[19:24:26] [FG:RP] - Vagos Clanovi ucitani.
+[19:24:26] [FG:RP] - LCN Clanovi ucitani.
+[19:24:26] [FG:RP] - Yakuza Clanovi ucitani.
+[19:24:26] [FG:RP] - Admini ucitani.
+[19:24:26] [FG:RP] - Helperi ucitani.
+[19:24:26] [FG:RP] - Zaduzenja ucitana.
+[19:24:26] [FG:RP] >> Server podesavanja ucitana.
+[19:24:26] [FG:RP] >> System pocetnickih statsa i pljacki je ucitan.
+[19:24:26] [FG:RP] >> System droge kuce ucitan.
+[19:24:26] [FG:RP] >> Lotto podesavanja ucitana !
+[19:24:26] Ucitani labeli.
+[19:24:26] Ucitani pickupovi.
+[19:24:26] 10886 - ukupno CreateDynamicObjekata.
+[19:24:26]  
+[19:24:26] FGaming v4.0 successfully loaded!
+[19:24:26] Gamemode by DIAZ !
+[19:24:26]  
+[19:24:26]  Skripta ucitana za 6281 ms
+[19:24:26] Number of vehicle models: 71
+[19:25:01] [connection] 127.0.0.1:55532 requests connection cookie.
+[19:25:02] Incoming connection: 127.0.0.1:55532 id: 0
+[19:25:02] [join] DIAZ has joined the server (0:127.0.0.1)
+[19:25:19] [DEBUG] DIALOG_LOGIN - 2
+[19:25:19] [DEBUG] DIALOG_LOGIN - 9
+[19:25:19] [DEBUG] OnPlayerStateChange 0, 8, 0
+[19:25:19] [DEBUG] OnPlayerSpawn 3
+[19:25:19] [DEBUG] OnPlayerSpawn 4
+[19:25:20] [DEBUG] OnPlayerStateChange 0, 1, 8
+[19:25:25] [DEBUG] OnPlayerDisconnect 2
+[19:25:25] [part] DIAZ has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[19:32:28] filterscripts = ""  (string)
+[19:32:28] 
+[19:32:28] Server Plugins
+[19:32:28] --------------
+[19:32:28]  Loading plugin: crashdetect.dll
+[19:32:28]   CrashDetect v4.15.1 is OK.
+[19:32:28]   Loaded.
+[19:32:28]  Loading plugin: streamer.dll
+[19:32:28] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[19:32:28]   Loaded.
+[19:32:28]  Loading plugin: sscanf.dll
+[19:32:28] 
+
+[19:32:28]  ===============================
+
+[19:32:28]       sscanf plugin loaded.     
+
+[19:32:28]          Version:  2.8.2        
+
+[19:32:28]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:32:28]  ===============================
+
+[19:32:28]   Loaded.
+[19:32:28]  Loading plugin: MapAndreas.dll
+[19:32:28]   Loaded.
+[19:32:28]  Loaded 4 plugins.
+
+[19:32:28] 
+[19:32:28] Filterscripts
+[19:32:28] ---------------
+[19:32:28]   Loaded 0 filterscripts.
+
+[19:32:29]  
+[19:32:29]  
+[19:32:29]  
+[19:32:29]  ======================================= 
+[19:32:29]  |                                     | 
+[19:32:29]  |        YSI version 3.09.0684        | 
+[19:32:29]  |        By Alex "Y_Less" Cole        | 
+[19:32:29]  |                                     | 
+[19:32:29]  ======================================= 
+[19:32:29]  
+[19:32:29]  
+[19:32:29]  
+[19:32:30] [FG:RP]: Skripta vrsi ocitavanje....
+[19:32:30] [FG:RP]: OnGameModeInit se pokrece.
+[19:32:30]  Y_INI | Zona 0 ucitana
+[19:32:30]  Y_INI | Zona 1 ucitana
+[19:32:30]  Y_INI | Zona 2 ucitana
+[19:32:30]  Y_INI | Zona 3 ucitana
+[19:32:30]  Y_INI | Zona 4 ucitana
+[19:32:30]  Y_INI | Zona 5 ucitana
+[19:32:30]  Y_INI | Zona 6 ucitana
+[19:32:30]  Y_INI | Zona 7 ucitana
+[19:32:30]  Y_INI | Zona 8 ucitana
+[19:32:30]  Y_INI | Zona 9 ucitana
+[19:32:30]  Y_INI | Zona 10 ucitana
+[19:32:30]  Y_INI | Zona 11 ucitana
+[19:32:30]  Y_INI | Zona 12 ucitana
+[19:32:30]  Y_INI | Zona 13 ucitana
+[19:32:30]  Y_INI | Zona 14 ucitana
+[19:32:30]  Y_INI | Zona 15 ucitana
+[19:32:30]  Y_INI | Zona 16 ucitana
+[19:32:30]  Y_INI | Zona 17 ucitana
+[19:32:30]  Y_INI | Zona 18 ucitana
+[19:32:30]  Y_INI | Zona 19 ucitana
+[19:32:32] [FG:RP] >> System zlata uèitan.
+[19:32:33] [FG:RP] - PD Clanovi ucitani.
+[19:32:33] [FG:RP] - SAJ Clanovi ucitani.
+[19:32:33] [FG:RP] - Vojska Clanovi ucitani.
+[19:32:33] [FG:RP] - DNB Clanovi ucitani.
+[19:32:33] [FG:RP] - GSF Clanovi ucitani.
+[19:32:33] [FG:RP] - Ballas Clanovi ucitani.
+[19:32:33] [FG:RP] - Surenos Clanovi ucitani.
+[19:32:33] [FG:RP] - Vagos Clanovi ucitani.
+[19:32:33] [FG:RP] - LCN Clanovi ucitani.
+[19:32:33] [FG:RP] - Yakuza Clanovi ucitani.
+[19:32:33] [FG:RP] - Admini ucitani.
+[19:32:33] [FG:RP] - Helperi ucitani.
+[19:32:33] [FG:RP] - Zaduzenja ucitana.
+[19:32:34] [FG:RP] >> Server podesavanja ucitana.
+[19:32:34] [FG:RP] >> System pocetnickih statsa i pljacki je ucitan.
+[19:32:34] [FG:RP] >> System droge kuce ucitan.
+[19:32:34] [FG:RP] >> Lotto podesavanja ucitana !
+[19:32:34] Ucitani labeli.
+[19:32:34] Ucitani pickupovi.
+[19:32:34] 10859 - ukupno CreateDynamicObjekata.
+[19:32:34]  
+[19:32:34] FGaming v4.0 successfully loaded!
+[19:32:34] Gamemode by DIAZ !
+[19:32:34]  
+[19:32:34]  Skripta ucitana za 4092 ms
+[19:32:34] Number of vehicle models: 71
+[19:33:50] [connection] 127.0.0.1:61806 requests connection cookie.
+[19:33:51] Incoming connection: 127.0.0.1:61806 id: 0
+[19:33:51] [join] DIAZ has joined the server (0:127.0.0.1)
+[19:34:35] [DEBUG] DIALOG_LOGIN - 2
+[19:34:35] [DEBUG] DIALOG_LOGIN - 9
+[19:34:35] [DEBUG] OnPlayerStateChange 0, 8, 0
+[19:34:35] [DEBUG] OnPlayerSpawn 3
+[19:34:35] [DEBUG] OnPlayerSpawn 4
+[19:34:35] [DEBUG] OnPlayerStateChange 0, 1, 8
+[19:34:53] [DEBUG] OnPlayerStateChange 0, 2, 1
+[19:35:52] [DEBUG] OnPlayerStateChange 0, 1, 2
+[19:36:01] [DEBUG] OnPlayerDisconnect 2
+[19:36:01] [part] DIAZ has left the server (0:1)
+[19:41:37] [AUTOSAVE]: Online korisnicki racuni uspjesno spremljeni 
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[20:27:05] filterscripts = ""  (string)
+[20:27:05] 
+[20:27:05] Server Plugins
+[20:27:05] --------------
+[20:27:05]  Loading plugin: crashdetect.dll
+[20:27:05]   CrashDetect v4.15.1 is OK.
+[20:27:05]   Loaded.
+[20:27:05]  Loading plugin: streamer.dll
+[20:27:05] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[20:27:05]   Loaded.
+[20:27:05]  Loading plugin: sscanf.dll
+[20:27:05] 
+
+[20:27:05]  ===============================
+
+[20:27:05]       sscanf plugin loaded.     
+
+[20:27:05]          Version:  2.8.2        
+
+[20:27:05]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:27:05]  ===============================
+
+[20:27:05]   Loaded.
+[20:27:05]  Loading plugin: MapAndreas.dll
+[20:27:05]   Loaded.
+[20:27:05]  Loaded 4 plugins.
+
+[20:27:05] I couldn't load any gamemode scripts. Please verify your server.cfg
+[20:27:05] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[20:27:26] filterscripts = ""  (string)
+[20:27:26] 
+[20:27:26] Server Plugins
+[20:27:26] --------------
+[20:27:26]  Loading plugin: crashdetect.dll
+[20:27:26]   CrashDetect v4.15.1 is OK.
+[20:27:26]   Loaded.
+[20:27:26]  Loading plugin: streamer.dll
+[20:27:26] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[20:27:26]   Loaded.
+[20:27:26]  Loading plugin: sscanf.dll
+[20:27:26] 
+
+[20:27:26]  ===============================
+
+[20:27:26]       sscanf plugin loaded.     
+
+[20:27:26]          Version:  2.8.2        
+
+[20:27:26]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:27:26]  ===============================
+
+[20:27:26]   Loaded.
+[20:27:26]  Loading plugin: MapAndreas.dll
+[20:27:26]   Loaded.
+[20:27:26]  Loaded 4 plugins.
+
+[20:27:26] 
+[20:27:26] Filterscripts
+[20:27:26] ---------------
+[20:27:26]   Loaded 0 filterscripts.
+
+[20:27:26]  
+[20:27:26]  
+[20:27:26]  
+[20:27:26]  ======================================= 
+[20:27:26]  |                                     | 
+[20:27:26]  |        YSI version 3.09.0684        | 
+[20:27:26]  |        By Alex "Y_Less" Cole        | 
+[20:27:26]  |                                     | 
+[20:27:26]  ======================================= 
+[20:27:26]  
+[20:27:26]  
+[20:27:26]  
+[20:27:27] [FG:RP]: Skripta vrsi ocitavanje....
+[20:27:27] [FG:RP]: OnGameModeInit se pokrece.
+[20:27:27]  Y_INI | Zona 0 ucitana
+[20:27:27]  Y_INI | Zona 1 ucitana
+[20:27:27]  Y_INI | Zona 2 ucitana
+[20:27:27]  Y_INI | Zona 3 ucitana
+[20:27:27]  Y_INI | Zona 4 ucitana
+[20:27:27]  Y_INI | Zona 5 ucitana
+[20:27:27]  Y_INI | Zona 6 ucitana
+[20:27:27]  Y_INI | Zona 7 ucitana
+[20:27:27]  Y_INI | Zona 8 ucitana
+[20:27:27]  Y_INI | Zona 9 ucitana
+[20:27:27]  Y_INI | Zona 10 ucitana
+[20:27:27]  Y_INI | Zona 11 ucitana
+[20:27:27]  Y_INI | Zona 12 ucitana
+[20:27:27]  Y_INI | Zona 13 ucitana
+[20:27:27]  Y_INI | Zona 14 ucitana
+[20:27:27]  Y_INI | Zona 15 ucitana
+[20:27:27]  Y_INI | Zona 16 ucitana
+[20:27:27]  Y_INI | Zona 17 ucitana
+[20:27:27]  Y_INI | Zona 18 ucitana
+[20:27:27]  Y_INI | Zona 19 ucitana
+[20:27:29] [FG:RP] >> System zlata uèitan.
+[20:27:31] [FG:RP] - PD Clanovi ucitani.
+[20:27:31] [FG:RP] - SAJ Clanovi ucitani.
+[20:27:31] [FG:RP] - Vojska Clanovi ucitani.
+[20:27:31] [FG:RP] - DNB Clanovi ucitani.
+[20:27:31] [FG:RP] - GSF Clanovi ucitani.
+[20:27:31] [FG:RP] - Ballas Clanovi ucitani.
+[20:27:31] [FG:RP] - Surenos Clanovi ucitani.
+[20:27:31] [FG:RP] - Vagos Clanovi ucitani.
+[20:27:31] [FG:RP] - LCN Clanovi ucitani.
+[20:27:31] [FG:RP] - Yakuza Clanovi ucitani.
+[20:27:31] [FG:RP] - Admini ucitani.
+[20:27:31] [FG:RP] - Helperi ucitani.
+[20:27:31] [FG:RP] - Zaduzenja ucitana.
+[20:27:31] [FG:RP] >> Server podesavanja ucitana.
+[20:27:31] [FG:RP] >> System pocetnickih statsa i pljacki je ucitan.
+[20:27:31] [FG:RP] >> System droge kuce ucitan.
+[20:27:31] [FG:RP] >> Lotto podesavanja ucitana !
+[20:27:31] Ucitani labeli.
+[20:27:31] Ucitani pickupovi.
+[20:27:31] 10859 - ukupno CreateDynamicObjekata.
+[20:27:31]  
+[20:27:31] FGaming v4.2-bugfix successfully loaded!
+[20:27:31] Gamemode by DIAZ !
+[20:27:31]  
+[20:27:31]  Skripta ucitana za 4291 ms
+[20:27:31] Number of vehicle models: 71
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[07:48:32] filterscripts = ""  (string)
+[07:48:32] 
+[07:48:32] Server Plugins
+[07:48:32] --------------
+[07:48:32]  Loading plugin: crashdetect.dll
+[07:48:32]   CrashDetect v4.15.1 is OK.
+[07:48:32]   Loaded.
+[07:48:32]  Loading plugin: streamer.dll
+[07:48:32] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[07:48:32]   Loaded.
+[07:48:32]  Loading plugin: sscanf.dll
+[07:48:32] 
+
+[07:48:32]  ===============================
+
+[07:48:32]       sscanf plugin loaded.     
+
+[07:48:32]          Version:  2.8.2        
+
+[07:48:32]    (c) 2012 Alex "Y_Less" Cole  
+
+[07:48:32]  ===============================
+
+[07:48:32]   Loaded.
+[07:48:32]  Loading plugin: MapAndreas.dll
+[07:48:32]   Loaded.
+[07:48:32]  Loaded 4 plugins.
+
+[07:48:32] 
+[07:48:32] Filterscripts
+[07:48:32] ---------------
+[07:48:32]   Loaded 0 filterscripts.
+
+[07:48:33]  
+[07:48:33]  
+[07:48:33]  
+[07:48:33]  ======================================= 
+[07:48:33]  |                                     | 
+[07:48:33]  |        YSI version 3.09.0684        | 
+[07:48:33]  |        By Alex "Y_Less" Cole        | 
+[07:48:33]  |                                     | 
+[07:48:33]  ======================================= 
+[07:48:33]  
+[07:48:33]  
+[07:48:33]  
+[07:48:34] [FG:RP]: Skripta vrsi ocitavanje....
+[07:48:34] [FG:RP]: OnGameModeInit se pokrece.
+[07:48:34]  Y_INI | Zona 0 ucitana
+[07:48:34]  Y_INI | Zona 1 ucitana
+[07:48:34]  Y_INI | Zona 2 ucitana
+[07:48:34]  Y_INI | Zona 3 ucitana
+[07:48:34]  Y_INI | Zona 4 ucitana
+[07:48:34]  Y_INI | Zona 5 ucitana
+[07:48:34]  Y_INI | Zona 6 ucitana
+[07:48:34]  Y_INI | Zona 7 ucitana
+[07:48:34]  Y_INI | Zona 8 ucitana
+[07:48:34]  Y_INI | Zona 9 ucitana
+[07:48:34]  Y_INI | Zona 10 ucitana
+[07:48:34]  Y_INI | Zona 11 ucitana
+[07:48:34]  Y_INI | Zona 12 ucitana
+[07:48:34]  Y_INI | Zona 13 ucitana
+[07:48:34]  Y_INI | Zona 14 ucitana
+[07:48:34]  Y_INI | Zona 15 ucitana
+[07:48:34]  Y_INI | Zona 16 ucitana
+[07:48:34]  Y_INI | Zona 17 ucitana
+[07:48:34]  Y_INI | Zona 18 ucitana
+[07:48:34]  Y_INI | Zona 19 ucitana
+[07:48:36] [FG:RP] >> System zlata uèitan.
+[07:48:38] [FG:RP] - PD Clanovi ucitani.
+[07:48:38] [FG:RP] - SAJ Clanovi ucitani.
+[07:48:38] [FG:RP] - Vojska Clanovi ucitani.
+[07:48:38] [FG:RP] - DNB Clanovi ucitani.
+[07:48:38] [FG:RP] - GSF Clanovi ucitani.
+[07:48:38] [FG:RP] - Ballas Clanovi ucitani.
+[07:48:38] [FG:RP] - Surenos Clanovi ucitani.
+[07:48:38] [FG:RP] - Vagos Clanovi ucitani.
+[07:48:38] [FG:RP] - LCN Clanovi ucitani.
+[07:48:38] [FG:RP] - Yakuza Clanovi ucitani.
+[07:48:38] [FG:RP] - Admini ucitani.
+[07:48:38] [FG:RP] - Helperi ucitani.
+[07:48:38] [FG:RP] - Zaduzenja ucitana.
+[07:48:39] [FG:RP] >> Server podesavanja ucitana.
+[07:48:39] [FG:RP] >> System pocetnickih statsa i pljacki je ucitan.
+[07:48:39] [FG:RP] >> System droge kuce ucitan.
+[07:48:39] [FG:RP] >> Lotto podesavanja ucitana !
+[07:48:39] Ucitani labeli.
+[07:48:39] Ucitani pickupovi.
+[07:48:39] 10859 - ukupno CreateDynamicObjekata.
+[07:48:39]  
+[07:48:39] FGaming v4.2-bugfix successfully loaded!
+[07:48:39] Gamemode by DIAZ !
+[07:48:39]  
+[07:48:39]  Skripta ucitana za 4599 ms
+[07:48:39] Number of vehicle models: 71
+[07:48:59] [connection] 127.0.0.1:62486 requests connection cookie.
+[07:49:00] Incoming connection: 127.0.0.1:62486 id: 0
+[07:49:00] [join] DIAZ has joined the server (0:127.0.0.1)
+[07:49:19] [DEBUG] DIALOG_LOGIN - 2
+[07:49:19] [DEBUG] DIALOG_LOGIN - 9
+[07:49:19] [DEBUG] OnPlayerStateChange 0, 8, 0
+[07:49:20] [DEBUG] OnPlayerSpawn 3
+[07:49:20] [DEBUG] OnPlayerSpawn 4
+[07:49:20] [DEBUG] OnPlayerStateChange 0, 1, 8
+[07:57:47] [AUTOSAVE]: Online korisnicki racuni uspjesno spremljeni 
+[08:00:00] DrvoRast public pokrenut!
+[08:00:00] DrvoRast public zavrsen!
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[08:06:28] filterscripts = ""  (string)
+[08:06:28] 
+[08:06:28] Server Plugins
+[08:06:28] --------------
+[08:06:28]  Loading plugin: crashdetect.dll
+[08:06:28]   CrashDetect v4.15.1 is OK.
+[08:06:28]   Loaded.
+[08:06:28]  Loading plugin: streamer.dll
+[08:06:28] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[08:06:28]   Loaded.
+[08:06:28]  Loading plugin: sscanf.dll
+[08:06:28] 
+
+[08:06:28]  ===============================
+
+[08:06:28]       sscanf plugin loaded.     
+
+[08:06:28]          Version:  2.8.2        
+
+[08:06:28]    (c) 2012 Alex "Y_Less" Cole  
+
+[08:06:28]  ===============================
+
+[08:06:28]   Loaded.
+[08:06:28]  Loading plugin: MapAndreas.dll
+[08:06:28]   Loaded.
+[08:06:28]  Loaded 4 plugins.
+
+[08:06:28] 
+[08:06:28] Filterscripts
+[08:06:28] ---------------
+[08:06:28]   Loaded 0 filterscripts.
+
+[08:06:29]  
+[08:06:29]  
+[08:06:29]  
+[08:06:29]  ======================================= 
+[08:06:29]  |                                     | 
+[08:06:29]  |        YSI version 3.09.0684        | 
+[08:06:29]  |        By Alex "Y_Less" Cole        | 
+[08:06:29]  |                                     | 
+[08:06:29]  ======================================= 
+[08:06:29]  
+[08:06:29]  
+[08:06:29]  
+[08:06:30] [FG:RP]: Skripta vrsi ocitavanje....
+[08:06:30] [FG:RP]: OnGameModeInit se pokrece.
+[08:06:30]  Y_INI | Zona 0 ucitana
+[08:06:30]  Y_INI | Zona 1 ucitana
+[08:06:30]  Y_INI | Zona 2 ucitana
+[08:06:30]  Y_INI | Zona 3 ucitana
+[08:06:30]  Y_INI | Zona 4 ucitana
+[08:06:30]  Y_INI | Zona 5 ucitana
+[08:06:30]  Y_INI | Zona 6 ucitana
+[08:06:30]  Y_INI | Zona 7 ucitana
+[08:06:30]  Y_INI | Zona 8 ucitana
+[08:06:30]  Y_INI | Zona 9 ucitana
+[08:06:30]  Y_INI | Zona 10 ucitana
+[08:06:30]  Y_INI | Zona 11 ucitana
+[08:06:30]  Y_INI | Zona 12 ucitana
+[08:06:30]  Y_INI | Zona 13 ucitana
+[08:06:30]  Y_INI | Zona 14 ucitana
+[08:06:30]  Y_INI | Zona 15 ucitana
+[08:06:30]  Y_INI | Zona 16 ucitana
+[08:06:30]  Y_INI | Zona 17 ucitana
+[08:06:30]  Y_INI | Zona 18 ucitana
+[08:06:30]  Y_INI | Zona 19 ucitana
+[08:06:32] [FG:RP] >> System zlata uèitan.
+[08:06:34] [FG:RP] - PD Clanovi ucitani.
+[08:06:34] [FG:RP] - SAJ Clanovi ucitani.
+[08:06:34] [FG:RP] - Vojska Clanovi ucitani.
+[08:06:34] [FG:RP] - DNB Clanovi ucitani.
+[08:06:34] [FG:RP] - GSF Clanovi ucitani.
+[08:06:34] [FG:RP] - Ballas Clanovi ucitani.
+[08:06:34] [FG:RP] - Surenos Clanovi ucitani.
+[08:06:34] [FG:RP] - Vagos Clanovi ucitani.
+[08:06:34] [FG:RP] - LCN Clanovi ucitani.
+[08:06:34] [FG:RP] - Yakuza Clanovi ucitani.
+[08:06:34] [FG:RP] - Admini ucitani.
+[08:06:34] [FG:RP] - Helperi ucitani.
+[08:06:34] [FG:RP] - Zaduzenja ucitana.
+[08:06:34] [FG:RP] >> Server podesavanja ucitana.
+[08:06:34] [FG:RP] >> System pocetnickih statsa i pljacki je ucitan.
+[08:06:34] [FG:RP] >> System droge kuce ucitan.
+[08:06:34] [FG:RP] >> Lotto podesavanja ucitana !
+[08:06:34] Ucitani labeli.
+[08:06:34] Ucitani pickupovi.
+[08:06:34] 10859 - ukupno CreateDynamicObjekata.
+[08:06:34]  
+[08:06:34] FGaming v4.2-bugfix successfully loaded!
+[08:06:34] Gamemode by DIAZ !
+[08:06:34]  
+[08:06:34]  Skripta ucitana za 4219 ms
+[08:06:34] Number of vehicle models: 71
+[08:07:35] [connection] 127.0.0.1:50536 requests connection cookie.
+[08:07:36] Incoming connection: 127.0.0.1:50536 id: 0
+[08:07:37] [join] DIAZ has joined the server (0:127.0.0.1)
+[08:07:58] [DEBUG] DIALOG_LOGIN - 2
+[08:07:58] [DEBUG] DIALOG_LOGIN - 9
+[08:07:58] [DEBUG] OnPlayerStateChange 0, 8, 0
+[08:07:58] [DEBUG] OnPlayerSpawn 3
+[08:07:58] [DEBUG] OnPlayerSpawn 4
+[08:07:59] [DEBUG] OnPlayerStateChange 0, 1, 8
+[08:10:36] [DEBUG] OnPlayerStateChange 0, 2, 1
+[08:10:55] [DEBUG] OnPlayerStateChange 0, 1, 2
+[08:11:44] [DEBUG] OnPlayerStateChange 0, 2, 1
+[08:12:55] [DEBUG] OnPlayerDisconnect 2
+[08:12:55] [part] DIAZ has left the server (0:1)
+[08:15:38] [AUTOSAVE]: Online korisnicki racuni uspjesno spremljeni 
+[08:24:40] [AUTOSAVE]: Online korisnicki racuni uspjesno spremljeni 
+[08:33:46] [AUTOSAVE]: Online korisnicki racuni uspjesno spremljeni 
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[18:49:26] filterscripts = ""  (string)
+[18:49:26] 
+[18:49:26] Server Plugins
+[18:49:26] --------------
+[18:49:26]  Loading plugin: crashdetect.dll
+[18:49:26]   CrashDetect v4.15.1 is OK.
+[18:49:26]   Loaded.
+[18:49:26]  Loading plugin: streamer.dll
+[18:49:26] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[18:49:26]   Loaded.
+[18:49:26]  Loading plugin: sscanf.dll
+[18:49:26] 
+
+[18:49:26]  ===============================
+
+[18:49:26]       sscanf plugin loaded.     
+
+[18:49:26]          Version:  2.8.2        
+
+[18:49:26]    (c) 2012 Alex "Y_Less" Cole  
+
+[18:49:26]  ===============================
+
+[18:49:26]   Loaded.
+[18:49:26]  Loading plugin: MapAndreas.dll
+[18:49:26]   Loaded.
+[18:49:26]  Loaded 4 plugins.
+
+[18:49:26] 
+[18:49:26] Filterscripts
+[18:49:26] ---------------
+[18:49:26]   Loaded 0 filterscripts.
+
+[18:49:28]  
+[18:49:28]  
+[18:49:28]  
+[18:49:28]  ======================================= 
+[18:49:28]  |                                     | 
+[18:49:28]  |        YSI version 3.09.0684        | 
+[18:49:28]  |        By Alex "Y_Less" Cole        | 
+[18:49:28]  |                                     | 
+[18:49:28]  ======================================= 
+[18:49:28]  
+[18:49:28]  
+[18:49:28]  
+[18:49:28] [FG:RP]: Skripta vrsi ocitavanje....
+[18:49:28] [FG:RP]: OnGameModeInit se pokrece.
+[18:49:28]  Y_INI | Zona 0 ucitana
+[18:49:28]  Y_INI | Zona 1 ucitana
+[18:49:28]  Y_INI | Zona 2 ucitana
+[18:49:28]  Y_INI | Zona 3 ucitana
+[18:49:28]  Y_INI | Zona 4 ucitana
+[18:49:28]  Y_INI | Zona 5 ucitana
+[18:49:28]  Y_INI | Zona 6 ucitana
+[18:49:28]  Y_INI | Zona 7 ucitana
+[18:49:28]  Y_INI | Zona 8 ucitana
+[18:49:28]  Y_INI | Zona 9 ucitana
+[18:49:28]  Y_INI | Zona 10 ucitana
+[18:49:28]  Y_INI | Zona 11 ucitana
+[18:49:28]  Y_INI | Zona 12 ucitana
+[18:49:28]  Y_INI | Zona 13 ucitana
+[18:49:28]  Y_INI | Zona 14 ucitana
+[18:49:28]  Y_INI | Zona 15 ucitana
+[18:49:29]  Y_INI | Zona 16 ucitana
+[18:49:29]  Y_INI | Zona 17 ucitana
+[18:49:29]  Y_INI | Zona 18 ucitana
+[18:49:29]  Y_INI | Zona 19 ucitana
+[18:49:29] [FG:RP] >> System zlata uèitan.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[08:56:35] filterscripts = ""  (string)
+[08:56:35] 
+[08:56:35] Server Plugins
+[08:56:35] --------------
+[08:56:35]  Loading plugin: crashdetect.dll
+[08:56:36]   CrashDetect v4.15.1 is OK.
+[08:56:36]   Loaded.
+[08:56:36]  Loading plugin: streamer.dll
+[08:56:36] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[08:56:36]   Loaded.
+[08:56:36]  Loading plugin: sscanf.dll
+[08:56:36] 
+
+[08:56:36]  ===============================
+
+[08:56:36]       sscanf plugin loaded.     
+
+[08:56:36]          Version:  2.8.2        
+
+[08:56:36]    (c) 2012 Alex "Y_Less" Cole  
+
+[08:56:36]  ===============================
+
+[08:56:36]   Loaded.
+[08:56:36]  Loading plugin: MapAndreas.dll
+[08:56:36]   Loaded.
+[08:56:36]  Loaded 4 plugins.
+
+[08:56:36] 
+[08:56:36] Filterscripts
+[08:56:36] ---------------
+[08:56:36]   Loaded 0 filterscripts.
+
+[08:56:36]  
+[08:56:36]  
+[08:56:36]  
+[08:56:36]  ======================================= 
+[08:56:36]  |                                     | 
+[08:56:36]  |        YSI version 3.09.0684        | 
+[08:56:36]  |        By Alex "Y_Less" Cole        | 
+[08:56:36]  |                                     | 
+[08:56:36]  ======================================= 
+[08:56:36]  
+[08:56:36]  
+[08:56:36]  
+[08:56:37] [FG:RP]: Skripta vrsi ocitavanje....
+[08:56:37] [FG:RP]: OnGameModeInit se pokrece.
+[08:56:37]  Y_INI | Zona 0 ucitana
+[08:56:37]  Y_INI | Zona 1 ucitana
+[08:56:37]  Y_INI | Zona 2 ucitana
+[08:56:37]  Y_INI | Zona 3 ucitana
+[08:56:37]  Y_INI | Zona 4 ucitana
+[08:56:37]  Y_INI | Zona 5 ucitana
+[08:56:37]  Y_INI | Zona 6 ucitana
+[08:56:37]  Y_INI | Zona 7 ucitana
+[08:56:37]  Y_INI | Zona 8 ucitana
+[08:56:37]  Y_INI | Zona 9 ucitana
+[08:56:37]  Y_INI | Zona 10 ucitana
+[08:56:37]  Y_INI | Zona 11 ucitana
+[08:56:37]  Y_INI | Zona 12 ucitana
+[08:56:37]  Y_INI | Zona 13 ucitana
+[08:56:37]  Y_INI | Zona 14 ucitana
+[08:56:37]  Y_INI | Zona 15 ucitana
+[08:56:37]  Y_INI | Zona 16 ucitana
+[08:56:37]  Y_INI | Zona 17 ucitana
+[08:56:37]  Y_INI | Zona 18 ucitana
+[08:56:37]  Y_INI | Zona 19 ucitana
+[08:56:38] [FG:RP] >> System zlata uèitan.
+[08:56:40] [FG:RP] - PD Clanovi ucitani.
+[08:56:40] [FG:RP] - SAJ Clanovi ucitani.
+[08:56:40] [FG:RP] - Vojska Clanovi ucitani.
+[08:56:40] [FG:RP] - DNB Clanovi ucitani.
+[08:56:40] [FG:RP] - GSF Clanovi ucitani.
+[08:56:40] [FG:RP] - Ballas Clanovi ucitani.
+[08:56:40] [FG:RP] - Surenos Clanovi ucitani.
+[08:56:40] [FG:RP] - Vagos Clanovi ucitani.
+[08:56:40] [FG:RP] - LCN Clanovi ucitani.
+[08:56:40] [FG:RP] - Yakuza Clanovi ucitani.
+[08:56:40] [FG:RP] - Admini ucitani.
+[08:56:40] [FG:RP] - Helperi ucitani.
+[08:56:40] [FG:RP] - Zaduzenja ucitana.
+[08:56:40] [FG:RP] >> Server podesavanja ucitana.
+[08:56:40] [FG:RP] >> System pocetnickih statsa i pljacki je ucitan.
+[08:56:40] [FG:RP] >> System droge kuce ucitan.
+[08:56:40] [FG:RP] >> Lotto podesavanja ucitana !
+[08:56:40] Ucitani labeli.
+[08:56:40] Ucitani pickupovi.
+[08:56:40] 10852 - ukupno CreateDynamicObjekata.
+[08:56:40]  
+[08:56:40] FGaming v4.2-bugfix successfully loaded!
+[08:56:40] Gamemode by DIAZ !
+[08:56:40]  
+[08:56:40]  Skripta ucitana za 3172 ms
+[08:56:40] Number of vehicle models: 71
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[10:38:11] filterscripts = ""  (string)
+[10:38:11] 
+[10:38:11] Server Plugins
+[10:38:11] --------------
+[10:38:11]  Loading plugin: crashdetect.dll
+[10:38:11]   CrashDetect v4.15.1 is OK.
+[10:38:11]   Loaded.
+[10:38:11]  Loading plugin: streamer.dll
+[10:38:11] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[10:38:11]   Loaded.
+[10:38:11]  Loading plugin: sscanf.dll
+[10:38:11] 
+
+[10:38:11]  ===============================
+
+[10:38:11]       sscanf plugin loaded.     
+
+[10:38:11]          Version:  2.8.2        
+
+[10:38:11]    (c) 2012 Alex "Y_Less" Cole  
+
+[10:38:11]  ===============================
+
+[10:38:11]   Loaded.
+[10:38:11]  Loading plugin: MapAndreas.dll
+[10:38:11]   Loaded.
+[10:38:11]  Loaded 4 plugins.
+
+[10:38:11] 
+[10:38:11] Filterscripts
+[10:38:11] ---------------
+[10:38:11]   Loaded 0 filterscripts.
+
+[10:38:12]  
+[10:38:12]  
+[10:38:12]  
+[10:38:12]  ======================================= 
+[10:38:12]  |                                     | 
+[10:38:12]  |        YSI version 3.09.0684        | 
+[10:38:12]  |        By Alex "Y_Less" Cole        | 
+[10:38:12]  |                                     | 
+[10:38:12]  ======================================= 
+[10:38:12]  
+[10:38:12]  
+[10:38:12]  
+[10:38:13] [FG:RP]: Skripta vrsi ocitavanje....
+[10:38:13] [FG:RP]: OnGameModeInit se pokrece.
+[10:38:13]  Y_INI | Zona 0 ucitana
+[10:38:13]  Y_INI | Zona 1 ucitana
+[10:38:13]  Y_INI | Zona 2 ucitana
+[10:38:13]  Y_INI | Zona 3 ucitana
+[10:38:13]  Y_INI | Zona 4 ucitana
+[10:38:13]  Y_INI | Zona 5 ucitana
+[10:38:13]  Y_INI | Zona 6 ucitana
+[10:38:13]  Y_INI | Zona 7 ucitana
+[10:38:13]  Y_INI | Zona 8 ucitana
+[10:38:13]  Y_INI | Zona 9 ucitana
+[10:38:13]  Y_INI | Zona 10 ucitana
+[10:38:13]  Y_INI | Zona 11 ucitana
+[10:38:13]  Y_INI | Zona 12 ucitana
+[10:38:13]  Y_INI | Zona 13 ucitana
+[10:38:13]  Y_INI | Zona 14 ucitana
+[10:38:13]  Y_INI | Zona 15 ucitana
+[10:38:13]  Y_INI | Zona 16 ucitana
+[10:38:13]  Y_INI | Zona 17 ucitana
+[10:38:13]  Y_INI | Zona 18 ucitana
+[10:38:13]  Y_INI | Zona 19 ucitana
+[10:38:14] [FG:RP] >> System zlata uèitan.
+[10:38:16] [FG:RP] - PD Clanovi ucitani.
+[10:38:16] [FG:RP] - SAJ Clanovi ucitani.
+[10:38:16] [FG:RP] - Vojska Clanovi ucitani.
+[10:38:16] [FG:RP] - DNB Clanovi ucitani.
+[10:38:16] [FG:RP] - GSF Clanovi ucitani.
+[10:38:16] [FG:RP] - Ballas Clanovi ucitani.
+[10:38:16] [FG:RP] - Surenos Clanovi ucitani.
+[10:38:16] [FG:RP] - Vagos Clanovi ucitani.
+[10:38:16] [FG:RP] - LCN Clanovi ucitani.
+[10:38:16] [FG:RP] - Yakuza Clanovi ucitani.
+[10:38:16] [FG:RP] - Admini ucitani.
+[10:38:16] [FG:RP] - Helperi ucitani.
+[10:38:16] [FG:RP] - Zaduzenja ucitana.
+[10:38:16] [FG:RP] >> Server podesavanja ucitana.
+[10:38:16] [FG:RP] >> System pocetnickih statsa i pljacki je ucitan.
+[10:38:16] [FG:RP] >> System droge kuce ucitan.
+[10:38:16] [FG:RP] >> Lotto podesavanja ucitana !
+[10:38:16] Ucitani labeli.
+[10:38:16] Ucitani pickupovi.
+[10:38:16] 10852 - ukupno CreateDynamicObjekata.
+[10:38:16]  
+[10:38:16] FGaming v4.2-bugfix successfully loaded!
+[10:38:16] Gamemode by DIAZ !
+[10:38:16]  
+[10:38:16]  Skripta ucitana za 3430 ms
+[10:38:16] Number of vehicle models: 71
+[10:40:05] [connection] 192.168.100.2:64145 requests connection cookie.
+[10:40:06] Incoming connection: 192.168.100.2:64145 id: 0
+[10:40:06] [join] Stefan_Stojanovic has joined the server (0:192.168.100.2)
+[10:40:22] [DEBUG] OnPlayerStateChange 0, 8, 0
+[10:40:22] [DEBUG] OnPlayerStateChange 0, 1, 8
+[10:40:45] [DEBUG] OnPlayerDisconnect 2
+[10:40:45] Brisanje fajla: |Korisnici/Stefan_Stojanovic.ini| Razlog: Neregistrovan do Neregistrovan true.
+[10:40:45] [part] Stefan_Stojanovic has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[10:41:54] filterscripts = ""  (string)
+[10:41:54] 
+[10:41:54] Server Plugins
+[10:41:54] --------------
+[10:41:54]  Loading plugin: crashdetect.dll
+[10:41:54]   CrashDetect v4.15.1 is OK.
+[10:41:54]   Loaded.
+[10:41:54]  Loading plugin: streamer.dll
+[10:41:54] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[10:41:54]   Loaded.
+[10:41:54]  Loading plugin: sscanf.dll
+[10:41:54] 
+
+[10:41:54]  ===============================
+
+[10:41:54]       sscanf plugin loaded.     
+
+[10:41:54]          Version:  2.8.2        
+
+[10:41:54]    (c) 2012 Alex "Y_Less" Cole  
+
+[10:41:54]  ===============================
+
+[10:41:54]   Loaded.
+[10:41:54]  Loading plugin: MapAndreas.dll
+[10:41:54]   Loaded.
+[10:41:54]  Loaded 4 plugins.
+
+[10:41:54] 
+[10:41:54] Filterscripts
+[10:41:54] ---------------
+[10:41:54]   Loaded 0 filterscripts.
+
+[10:41:55]  
+[10:41:55]  
+[10:41:55]  
+[10:41:55]  ======================================= 
+[10:41:55]  |                                     | 
+[10:41:55]  |        YSI version 3.09.0684        | 
+[10:41:55]  |        By Alex "Y_Less" Cole        | 
+[10:41:55]  |                                     | 
+[10:41:55]  ======================================= 
+[10:41:55]  
+[10:41:55]  
+[10:41:55]  
+[10:41:56] [FG:RP]: Skripta vrsi ocitavanje....
+[10:41:56] [FG:RP]: OnGameModeInit se pokrece.
+[10:41:56]  Y_INI | Zona 0 ucitana
+[10:41:56]  Y_INI | Zona 1 ucitana
+[10:41:56]  Y_INI | Zona 2 ucitana
+[10:41:56]  Y_INI | Zona 3 ucitana
+[10:41:56]  Y_INI | Zona 4 ucitana
+[10:41:56]  Y_INI | Zona 5 ucitana
+[10:41:56]  Y_INI | Zona 6 ucitana
+[10:41:56]  Y_INI | Zona 7 ucitana
+[10:41:56]  Y_INI | Zona 8 ucitana
+[10:41:56]  Y_INI | Zona 9 ucitana
+[10:41:56]  Y_INI | Zona 10 ucitana
+[10:41:56]  Y_INI | Zona 11 ucitana
+[10:41:56]  Y_INI | Zona 12 ucitana
+[10:41:56]  Y_INI | Zona 13 ucitana
+[10:41:56]  Y_INI | Zona 14 ucitana
+[10:41:56]  Y_INI | Zona 15 ucitana
+[10:41:56]  Y_INI | Zona 16 ucitana
+[10:41:56]  Y_INI | Zona 17 ucitana
+[10:41:56]  Y_INI | Zona 18 ucitana
+[10:41:56]  Y_INI | Zona 19 ucitana
+[10:41:57] [FG:RP] >> System zlata uèitan.
+[10:41:59] [FG:RP] - PD Clanovi ucitani.
+[10:41:59] [FG:RP] - SAJ Clanovi ucitani.
+[10:41:59] [FG:RP] - Vojska Clanovi ucitani.
+[10:41:59] [FG:RP] - DNB Clanovi ucitani.
+[10:41:59] [FG:RP] - GSF Clanovi ucitani.
+[10:41:59] [FG:RP] - Ballas Clanovi ucitani.
+[10:41:59] [FG:RP] - Surenos Clanovi ucitani.
+[10:41:59] [FG:RP] - Vagos Clanovi ucitani.
+[10:41:59] [FG:RP] - LCN Clanovi ucitani.
+[10:41:59] [FG:RP] - Yakuza Clanovi ucitani.
+[10:41:59] [FG:RP] - Admini ucitani.
+[10:41:59] [FG:RP] - Helperi ucitani.
+[10:41:59] [FG:RP] - Zaduzenja ucitana.
+[10:41:59] [FG:RP] >> Server podesavanja ucitana.
+[10:41:59] [FG:RP] >> System pocetnickih statsa i pljacki je ucitan.
+[10:41:59] [FG:RP] >> System droge kuce ucitan.
+[10:41:59] [FG:RP] >> Lotto podesavanja ucitana !
+[10:41:59] Ucitani labeli.
+[10:41:59] Ucitani pickupovi.
+[10:41:59] 10852 - ukupno CreateDynamicObjekata.
+[10:41:59]  
+[10:41:59] FGaming v4.2-bugfix successfully loaded!
+[10:41:59] Gamemode by DIAZ !
+[10:41:59]  
+[10:41:59]  Skripta ucitana za 3206 ms
+[10:41:59] Number of vehicle models: 71
+[10:42:22] [connection] 192.168.100.2:53225 requests connection cookie.
+[10:42:23] Incoming connection: 192.168.100.2:53225 id: 0
+[10:42:23] [join] Stefan_Stojanovics has joined the server (0:192.168.100.2)
+[10:42:34] [DEBUG] OnPlayerStateChange 0, 8, 0
+[10:42:34] [DEBUG] OnPlayerStateChange 0, 1, 8
+[10:46:43] [DEBUG] OnPlayerStateChange 0, 8, 1
+[10:46:43] [DEBUG] OnPlayerSpawn 3
+[10:46:43] [DEBUG] OnPlayerSpawn 4
+[10:46:43] [DEBUG] OnPlayerStateChange 0, 1, 8
+[10:47:16] [DEBUG] OnPlayerStateChange 0, 2, 1
+[10:48:12] [DEBUG] OnPlayerStateChange 0, 1, 2
+[10:48:45] [DEBUG] OnPlayerStateChange 0, 2, 1
+[10:49:56] [DEBUG] OnPlayerDisconnect 2
+[10:49:56] [part] Stefan_Stojanovics has left the server (0:0)
+[10:51:05] [AUTOSAVE]: Online korisnicki racuni uspjesno spremljeni 
+[10:51:31] [connection] 192.168.100.2:59047 requests connection cookie.
+[10:51:32] Incoming connection: 192.168.100.2:59047 id: 0
+[10:51:33] [join] Stefan_Stojanovics has joined the server (0:192.168.100.2)
+[10:51:54] [DEBUG] DIALOG_LOGIN - 2
+[10:51:54] [DEBUG] DIALOG_LOGIN - 9
+[10:51:54] [DEBUG] OnPlayerStateChange 0, 8, 0
+[10:51:54] [DEBUG] OnPlayerSpawn 3
+[10:51:54] [DEBUG] OnPlayerSpawn 4
+[10:51:54] [DEBUG] OnPlayerStateChange 0, 1, 8
+[10:53:50] [DEBUG] OnPlayerStateChange 0, 2, 1
+[10:54:50] [DEBUG] OnPlayerStateChange 0, 1, 2
+[10:55:28] [DEBUG] OnPlayerStateChange 0, 2, 1
+[10:56:17] [DEBUG] OnPlayerStateChange 0, 1, 2
+[10:56:27] [DEBUG] OnPlayerStateChange 0, 2, 1
+[10:56:44] [DEBUG] OnPlayerDisconnect 2
+[10:56:44] [part] Stefan_Stojanovics has left the server (0:1)
